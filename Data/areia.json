@@ -1,6 +1,5 @@
 [
   { 
-    "id": 1,
     "cidade": "Campina Grande",
     "segunda a sexta": [
       "05:15",
@@ -61,7 +60,6 @@
     ]
   },
   {
-    "id": 2,
     "cidade": "Pilões",
     "segunda a sexta": [
       "05:50",
@@ -93,7 +91,6 @@
     ]
   },
   {
-    "id": 3,
     "cidade": "Esperança",
     "segunda a sexta": [
       "07:30",
@@ -105,7 +102,6 @@
     ]
   },
   {
-    "id": 4,
     "cidade": "Guarabira",
     "segunda a sexta": [
       "06:10",
